@@ -1,0 +1,29 @@
+package com.wipro.task;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class DailyTaskTest {
+	DailyTask task = new DailyTask();
+	@Test
+	public void testDoStringConcat() {
+		assertEquals("Result","sa hil",task.doStringConcat("sa","hil"));
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSortArray() {
+		int[] arr1 = {1,3,2};
+		int[] arr2 = {1,2,3};
+		
+		assertEquals("Result",arr2,task.sortArray(arr2));
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testCheckPresence() {
+		fail("Not yet implemented");
+	}
+
+}

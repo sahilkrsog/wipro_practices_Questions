@@ -1,0 +1,1 @@
+{"name":"Local: Hiker","url":"/media/sahil/Local Disk/wiproCoding/MileStone 2/Quiz/Hiker.java","tests":[{"id":1658239556151,"input":"8\nUDDDUDUU ","output":"0"},{"id":1658239684920,"input":"7\nDDDDDDD","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/sahil/Local Disk/wiproCoding/MileStone 2/Quiz/Hiker.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ArrayRotation","url":"/media/sahil/Local Disk/wiproCoding/MileStone 2/Quiz/ArrayRotation.java","tests":[{"id":1658242687024,"input":"5 4 \n1 2 3 4 5","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/sahil/Local Disk/wiproCoding/MileStone 2/Quiz/ArrayRotation.java","group":"local","local":true}
