@@ -5,8 +5,10 @@ class CreateFile{
         try{
 
             File newFile = new File("HelloFile.txt");
+            File newFile2 = new File("CreateWrite.java");
+            
             // File newFile2 = new File("HelloFile");
-            if(newFile.createNewFile()){
+            if(newFile2.createNewFile()){
                 System.out.println("File is created"+ newFile.getName());
             
         }
